@@ -21,6 +21,6 @@ IntA = 10
 IntB = 20
 
 IntSum = IntA + IntB
-WScript.Echo IntSum
-
+' WScript.Echo IntSum
+MsgBox "test"
 '  *****************

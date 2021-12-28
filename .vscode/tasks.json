@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "run vbs",
+      "type": "shell",
+      "command": "wscript",
+      "args": ["${file}"],
+      "group": {
+      "kind": "build",
+      "isDefault": true
+      }
+    }
+  ]
+}
