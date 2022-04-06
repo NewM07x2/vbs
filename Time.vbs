@@ -24,3 +24,4 @@ IntSum = IntA + IntB
 WScript.Echo IntSum
 
 '  *****************
+

@@ -1,0 +1,1 @@
+login-AzAccount ; Get-AzVM -Status ; Start-AzVM -ResourceGroupName "WVD"  -Name "wvd-host-77"
